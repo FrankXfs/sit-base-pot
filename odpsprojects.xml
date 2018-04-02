@@ -1,0 +1,16 @@
+<application>
+  <component name="StudioOdpsProjects">
+    <StudioOdpsProject>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="LTAIi4J3hk2ebkhd" />
+          <option name="accessKey" value="lWuggUr3bHVkEJ42ORZ34o4UbqxzeW" />
+          <option name="endPoint" value="http://service.odps.aliyun.com/api" />
+          <option name="projectName" value="test_frank" />
+          <option name="realEndPoint" value="http://service.odps.aliyun.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+  </component>
+</application>
