@@ -5,6 +5,23 @@
         <option name="enableInternalFeatures" value="false" />
       </GeneralSettings>
     </option>
+    <option name="accountSettings">
+      <AccountSettings>
+        <option name="providerAccountMap">
+          <map>
+            <entry value="LTAIL4YLAsDTiU6F###6Cw7Eab88veCHDfhcs0FunIXHYlZqh###frank">
+              <key>
+                <AccountUnitKey>
+                  <option name="name" value="frank" />
+                  <option name="providerId" value="Aliyun Account By AccessKey" />
+                </AccountUnitKey>
+              </key>
+            </entry>
+          </map>
+        </option>
+        <option name="defaultAccount" value="frank" />
+      </AccountSettings>
+    </option>
     <option name="sdkSettings">
       <SdkSettings>
         <option name="allSdks">
